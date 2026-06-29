@@ -6,7 +6,7 @@ I am an experienced ICT Instructor and Technical Professional dedicated to empow
 * **Curriculum Development:** Building clear, interactive, and gamified learning paths for young learners and emerging tech professionals.
 * **Technical Leadership:** Transforming corporate training frameworks to position tech initiatives for long-term growth.
 
-* * **Web design & Development:** Training individuals in responsive frontend foundations using HTML5, CSS3, and modern JavaScript.
+* **Web design & Development:** Training individuals in responsive frontend foundations using HTML5, CSS3, and modern JavaScript.
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** Python, HTML5, CSS3, JavaScript (ES6)
