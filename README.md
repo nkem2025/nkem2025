@@ -13,7 +13,8 @@ I am an experienced ICT Instructor and Technical Professional dedicated to empow
 * **Educational Frameworks:** Scratch, Project-Based Learning Modules
 
 ## 📁 Featured Projects
-*(I am currently organizing and preparing my core Python instructional frameworks and script applications to showcase here shortly!)*
+* **[Interactive Multiplication Quiz Game](https://github.com/nkem2025/Python-Quiz-Game)** - A gamified learning application featuring custom audio, background music, and instant feedback to increase student engagement.
+* **[CBT Examination System](https://github.com/nkem2025/cbt-testing-system)** - A robust, automated student testing and grading application built with Python.
 
 ---
 📫 **Let's Connect:** Feel free to explore my repositories or reach out to discuss how I can add immense value to your organization's technical training and curriculum delivery.
