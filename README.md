@@ -1,5 +1,5 @@
 # 👋 Hello, I'm a Tech & Python Instructor
-I am an experienced ICT Instructor and Technical Professional dedicated to empowering students, designing impactful tech curricula, and helping organizations elevate their training strategies and technical positioning.
+I am an experienced ICT Instructor and Technical Professional dedicated to empowering individuals, designing impactful tech curricula, and helping organizations elevate their training strategies and technical positioning.
 
 ## 🚀 Professional Focus
 * **Python Instruction:** Teaching core programming logic, object-oriented concepts, and real-world scripting applications.
