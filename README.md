@@ -18,16 +18,19 @@ With over 9 years of international leadership experience across high-stakes indu
 
 ### 🎙️ 1. Smart Talking Quiz Application
 An accessible, highly responsive desktop training engine built to leverage automated text-to-speech synthesis for multi-sensory educational learning paths.
+* [🎙️ Smart Talking Quiz Suite](https://github.com/nkem2025/interactive-learning--apps/tree/main/smart-talking-quiz) – Text-to-speech multi-threaded desktop application.
 * **Tech Stack:** Python, Tkinter GUI, `gTTS` API, `Pygame.mixer`, Multi-threading execution logic.
 * **Architecture Highlights:** Solved UI-freeze anomalies by shifting ongoing audio compilation and playback entirely into standalone background engine threads; engineered systemic asset managers to cleanly initialize, execute, and erase runtime dependencies on the fly.
 
 ### 🧮 2. Gamified Multiplication Assessment & Certificate Engine
 A complete student-centric math utility suite transitioning traditional academic evaluation processes away from standard paper matrices into modern high-engagement software ecosystems.
+* [🧮 Multiplication Quiz Challenge](https://github.com/nkem2025/interactive-learning--apps/tree/main/multiplication-quiz-challenge) – Gamified math application with custom logo assets and reporting.
 * **Tech Stack:** Python, Random Matrix Generation, Audio Event-Handling Layers, automated Pillow (PIL) certificate compilers.
 * **Pedagogical Blueprint:** Spearheaded instructional workflows from raw proof-of-concept modeling to finalized stand-alone distribution packages.
 
 ### 🏥 3. Advanced CBT Examination Platforms & State Testing Suites
 Highly functional, JAMB-simulated desktop examination tools featuring modern multi-screen layouts, independent running background timers, and responsive user states.
+* [🗺️ Nigeria States & Capitals Challenge](https://github.com/nkem2025/interactive-learning--apps/tree/main/nigeria-states-quiz) – Lightweight dynamic dictionary application tracking regional capitals.
 * **Tech Stack:** Python, Tkinter View Engines (`.tkraise()`), Layered UI Frames, Event Loop Hooks (`root.after`).
 * **Engineering Architecture:** Built state-aware dynamic dashboards tracking progress using algorithmic color-coding indicators (Active, Complete, Unattempted), backed by modular dictionary dataset arrays.
 
