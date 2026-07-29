@@ -123,13 +123,10 @@ With a strong foundation in **Administration, Business Coordination, Quality Ass
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [linkedin.com/in/your-profile](#)
-* **Email:** [your-email@example.com](#)
-* **Portfolio:** [your-portfolio-website.com](#)
-
 * **LinkedIn:** [flora-agubolom/05ab2963]
 * **Professional Email:** [fnkem.2014@gmail.com]
 * * **Portfolio:** [(https://github.com/nkem2025/nkem2025)]
+
 * **Location:** Port Harcourt, Rivers State, Nigeria 🇳🇬 *(Open to local, hybrid, and international remote engagements)*
 
 *“Transforming complex data and safety logic into clear, maintainable code and scalable curriculum architecture.”*
